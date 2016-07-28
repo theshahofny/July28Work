@@ -1,0 +1,17 @@
+Ami Shah
+Independent Study
+
+
+Java for Applications and Games 
+
+http://fivedots.coe.psu.ac.th/~ad/jg/
+
+Chapters 2, 3, 5 
+
+Read some basics as to why Java works for building applications and games.  Java has an excellent sub class under JPanel called GamePanel,
+where the animation is managed by a thread that ensures it progresses at a consistent rate, as independent of the hardware and OS as it can. 
+The rate is measured in terms of frames per second. 
+
+
+
+Also followed along with how to create simeple HTML/CSS/Javascript Calculator, and the given code, and uploaded .html, .css, and .js files.
